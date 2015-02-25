@@ -3,7 +3,7 @@ ROBOTC license toolkit
 This software was written by Istvan Telek for removing ROBOTC licenses.
 
 ### Usage
-You simply start the program and it will remove any ROBOTC Mindstorms licenses from your computer.
+You simply start the program and it will remove any ROBOTC for MINDSTORMS license from your computer.
 
 ### System requirements
 * Microsoft Windows XP or newer 32/64-bit architecture
