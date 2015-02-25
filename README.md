@@ -6,8 +6,8 @@ This software was written by Istvan Telek for removing ROBOTC licenses.
 You simply start the program and it will remove any ROBOTC Mindstorms licenses from your computer.
 
 ### System requirements
-Microsoft Windows XP or newer 32/64-bit architecture
-Microsoft .NET Framework 3.0
+* Microsoft Windows XP or newer 32/64-bit architecture
+* Microsoft .NET Framework 3.0
 
 ### Command line parameters
 ```
