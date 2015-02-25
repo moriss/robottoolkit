@@ -10,5 +10,8 @@ Microsoft Windows XP or newer 32/64-bit architecture
 Microsoft .NET Framework 3.0
 
 ### Command line parameters
-```-wait```
+```
+-wait
+```
+
 Simply waits for the user to press a button before exiting.
